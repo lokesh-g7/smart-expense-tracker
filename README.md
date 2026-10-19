@@ -1,6 +1,6 @@
 # Smart Expense Tracker
 
-#### Video Demo: [ADD YOUR YOUTUBE VIDEO URL HERE]
+#### Video Demo: [Watch my video](https://youtu.be/8BHZ7kbRv-8?si=1vZqfvIjh1PesLHG)
 
 #### Description
 
